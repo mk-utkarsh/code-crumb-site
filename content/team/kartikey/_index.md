@@ -1,4 +1,5 @@
 ---
-description: "Demonstration of an author."
-title: "Kartikey Chauhan"
+description: "Founder"
+title: "Kartikey Singh Chauhan"
+weight: 10
 ---
